@@ -20,7 +20,7 @@ public class ArrayStructure {
             System.out.print(tarefas[i] + " ");
         }
         for (String tarefa : tarefas) {
-            System.out.println();
+            System.out.println(tarefa);
         }
     }
 }
