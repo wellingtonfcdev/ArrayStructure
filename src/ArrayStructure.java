@@ -1,7 +1,7 @@
 public class ArrayStructure {
     public static void main(String[] args) {
         
-        String[] tarefas = {"Estudar Java","Fazer Exercícios","Tomar Café"};
+        String[] tarefas = {"Estudar Java","Fazer Exercícios","Tomar Café"};//inicialização do array
 
         //Acessar posições do Array
         System.out.println(tarefas[0]);
